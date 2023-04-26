@@ -1,3 +1,5 @@
+// The following code displays in Indonesian (Simply translate it if you want).
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
